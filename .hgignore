@@ -1,2 +1,5 @@
 syntax: glob
 *.pyc
+dist/
+build/
+physical_dualism.egg-info/
