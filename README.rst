@@ -42,7 +42,7 @@ Quick start::
 
 Please see the `fsm_eigenvalue`_ source code for more examples.
 
-.. _`fsm_eigenvalue`: https://bitbucket.org/petar/fsm_eigenvalue/src/
+.. _`fsm_eigenvalue`: https://github.com/petarmaric/fsm_eigenvalue
 
 Contribute
 ==========
@@ -52,6 +52,6 @@ If you find any bugs, or wish to propose new features `please let us know`_.
 If you'd like to contribute, simply fork `the repository`_, commit your changes
 and send a pull request. Make sure you add yourself to `AUTHORS`_.
 
-.. _`please let us know`: https://bitbucket.org/petar/physical_dualism/issues/new
-.. _`the repository`: http://bitbucket.org/petar/physical_dualism
-.. _`AUTHORS`: https://bitbucket.org/petar/physical_dualism/src/default/AUTHORS
+.. _`please let us know`: https://github.com/petarmaric/physical_dualism/issues/new
+.. _`the repository`: https://github.com/petarmaric/physical_dualism
+.. _`AUTHORS`: https://github.com/petarmaric/physical_dualism/blob/master/AUTHORS
