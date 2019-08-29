@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='physical_dualism',
-    version='1.0.0',
+    version='1.0.1',
     url='https://github.com/petarmaric/physical_dualism',
     license='BSD',
     author='Petar Maric',

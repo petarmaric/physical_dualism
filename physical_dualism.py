@@ -1,7 +1,7 @@
 import numpy as np
 
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 
 def approximate_natural_frequency_from_stress(m, a, sigma, ro):
