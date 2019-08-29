@@ -10,7 +10,7 @@ setup(
     author_email='petarmaric@uns.ac.rs',
     description='Python library that approximates the natural frequency from '\
                 'stress via physical dualism, and vice versa.',
-    long_description=open('README').read(),
+    long_description=open('README.rst').read(),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
